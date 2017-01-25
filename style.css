@@ -31,7 +31,7 @@ h1 {
 }
 
 h2 {
-  color: rgba(66, 34, 34, 0.89);
+  color: rgb(70, 70, 70);
   font-family: avenir;
   font-weight: thin;
   font-size: 35px;
@@ -140,7 +140,7 @@ img {
 }
 
 #sidebar {
-    background-color: #384047;
+    background-color: #373A3C80;
     position: fixed;
     left: 0px;
     top: 0px;
@@ -152,5 +152,5 @@ img {
 #sidebar a {
     text-decoration: none;
     font-size: 25px;
-    color: #788188;
+    color: #EDEDED;
 }

@@ -1,0 +1,140 @@
+body {
+ background: rgb(237, 237, 237  );
+ font-family: avenir;
+ color: rgb(40, 40, 40);
+ font-size: 15px;
+ line-height: 25px;
+ text-align: center;
+}
+
+.card{
+  background: white;
+  border: 1px #999999;
+  border-radius: 1%;
+  box-shadow: 3px 3px 3px #B1B1B1;
+  margin: 10px auto;
+  padding: 30px;
+  width: 700px;
+}
+
+.container {
+  width: 740px;
+  margin: 0 auto;
+  padding: 1px;
+}
+
+h1 {
+  color: rgb(40, 40, 40);
+  font-family: avenir;
+  font-size: 30px;
+  line-height: 30px;
+}
+
+h2 {
+  color: rgba(66, 34, 34, 0.89);
+  font-family: avenir;
+  font-weight: thin;
+  font-size: 35px;
+  line-height: 45px;
+}
+
+
+h3 {
+  color: rgb(75, 75, 75);
+  font-family: avenir;
+  font-weight: bold;
+  font-size: 25px;
+  line-height: 30px;
+}
+
+p {
+  color: rgb(95, 95, 95);
+  font-family: avenir;
+  font-size: 16px;
+  line-height: 25px
+}
+
+.img {
+  width: 200px;
+  height: 250px;
+}
+
+.img-circle {
+  border-radius: 50%;
+  border: 12px solid #CCC8C8;
+  border-spacing: 3px;
+  width: 270px;
+  height: 270px;
+  display: block;
+  transition: all 0.4s ease;
+}
+
+.img-circle:hover {
+  width: 285px;
+  height: 285px;
+}
+
+#profile-info h2 {
+  color: #A60510;
+  font-family: Helvetica;
+  font-weight: ultra light;
+  font-size: 22px;
+  line-height: 27px;
+}
+
+#about h2 {
+  color: rgb(125, 27, 27);
+  font-family: Helvetica;
+  font-weight: ultra light;
+  font-size: 22px;
+  line-height: 27px;
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 45px;
+  padding-left: 25px;
+}
+
+a {
+  color: rgb(130, 130, 130);
+  font-family: Helvetica;
+  font-weight: light;
+  font-size: 16px;
+  line-height: 10px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #A60510;
+}
+
+img {
+  display: block;
+    margin: auto;
+    width: 40%;
+}
+
+#about {
+  color: rgb(95, 95, 95);
+  font-family: avenir;
+  font-size: 10px;
+  line-height: 25px
+}
+
+#btn-red {
+  background: #A60510;
+  color: white;
+  font-family: avenir;
+  font-weight: light;
+  font-size: 18px;
+  line-height: 55px;
+  padding: 12px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 4%;
+}
+
+#btn-red:hover {
+  background: #BC0612;
+}
